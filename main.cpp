@@ -1,7 +1,5 @@
 // main.cpp
 
-// Spencer Thomason
-
 #include "GMPStringUtilities.h"
 
 using namespace std;
